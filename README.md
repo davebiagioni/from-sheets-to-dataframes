@@ -1,2 +1,2 @@
-# from-sheets-to-dataframes
-Code for the tutorial "From Sheets to DataFrames:  An Intro to Python Pandas for Excel Users"
+This repository has been moved here:  https://github.com/davebiagioni/sheets2df
+
